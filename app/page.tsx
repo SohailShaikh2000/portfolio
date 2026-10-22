@@ -6,7 +6,7 @@ import Logo from "../assets/Logo.png";
 
 export default function Home() {
   return (
-    <div className=" w-full max-h-[1440px] text-[#EEEEEE]">
+    <div className=" w-full max-w-360 text-[#EEEEEE]">
       <div className="flex items-center justify-between w-full px-24 py-12 border-b border-b-[#EEEEEE]/10 ">
         <h1 className="font-oswald font-bold text-[24px]">My Portfolio</h1>
         <div className="flex items-center gap-12 font-poppins text-[18px] cursor-pointer">
